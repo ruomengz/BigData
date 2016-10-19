@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Downloads the wiki dataset and prepares it for clustering
-# Put that script in the examples folder of mahout diretory
+# Put that script in the examples/bin folder of mahout diretory
 # To run:  change into the mahout directory and type:
 #  examples/bin/cluster-wiki.sh
 
